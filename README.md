@@ -2,7 +2,7 @@
 
 ### Wonderful Quotes is a web app that'll allow you to add or remove your favorite quotes! <br>
 
-**It features:**
+**Features:**
 * Add quotes and see them in a nice cursive font!
 * Remove quotes to add more quotes!
 * Track how much quotes you have!
