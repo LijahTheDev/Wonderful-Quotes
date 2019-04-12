@@ -70,6 +70,6 @@ To view the live website on Netlify click here: https://wonderful-quotes-lijahth
 
 ## Acknowledgments 💡
 
-I built this project during taking ["Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)"](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview) course.<br> 
+I built this project while taking ["Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)"](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview) course.<br> 
 This is where the project idea, structure, and knowledge came from.<br>
-Big thanks go out to this course, it taught me a lot!❤😎
+I'm thankful for this course, it taught me a lot!❤😎
